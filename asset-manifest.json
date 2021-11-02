@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/loan-repayment/static/css/main.a1d6058a.chunk.css",
+    "main.js": "/loan-repayment/static/js/main.232e51d5.chunk.js",
+    "main.js.map": "/loan-repayment/static/js/main.232e51d5.chunk.js.map",
+    "runtime-main.js": "/loan-repayment/static/js/runtime-main.697aa8ff.js",
+    "runtime-main.js.map": "/loan-repayment/static/js/runtime-main.697aa8ff.js.map",
+    "static/js/2.ab0b55f2.chunk.js": "/loan-repayment/static/js/2.ab0b55f2.chunk.js",
+    "static/js/2.ab0b55f2.chunk.js.map": "/loan-repayment/static/js/2.ab0b55f2.chunk.js.map",
+    "static/js/3.bfa5c896.chunk.js": "/loan-repayment/static/js/3.bfa5c896.chunk.js",
+    "static/js/3.bfa5c896.chunk.js.map": "/loan-repayment/static/js/3.bfa5c896.chunk.js.map",
+    "index.html": "/loan-repayment/index.html",
+    "static/css/main.a1d6058a.chunk.css.map": "/loan-repayment/static/css/main.a1d6058a.chunk.css.map",
+    "static/js/2.ab0b55f2.chunk.js.LICENSE.txt": "/loan-repayment/static/js/2.ab0b55f2.chunk.js.LICENSE.txt",
+    "static/media/calculator.ad3bd1f6.svg": "/loan-repayment/static/media/calculator.ad3bd1f6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.697aa8ff.js",
+    "static/js/2.ab0b55f2.chunk.js",
+    "static/css/main.a1d6058a.chunk.css",
+    "static/js/main.232e51d5.chunk.js"
+  ]
+}
